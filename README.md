@@ -21,7 +21,6 @@
 ![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
 
-<br>
 Образование: 
 - Прохождение онлайн-курсов Friendly Frontend.
 <br>
