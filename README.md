@@ -1,20 +1,27 @@
-## Hi there 👋
+ Привет 👋,
+меня зовут Хизри.
 
-<!--
-**Khizri74/Khizri74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Контактная информация:
+- телефон: +7 (989) 890 28-83;
+- электронная почта: zairbekovh@gmail.com;
+- профиль в LinkedIn:
+- профиль в GitHub: https://github.com/Khizri74/.
 
-Here are some ideas to get you started:
+Цель: получить позицию фронтенд-разработчика в компании, где я смогу применить свои навыки и опыт для разработки качественных и удобных пользовательских интерфейсов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->### Мои навыки
+Навыки:
+- владение HTML, CSS, JavaScript;
+- опыт работы с препроцессорами SASS;
+- знание принципов адаптивной вёрстки;
+- умение работать с инструментами разработки (Git, npm);
+- навыки командной работы и коммуникации с коллегами.
+
+Технологии которыми я владею:
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
+
+Образование: прохождение онлайн-курсов Friendly Frontend.
+
+Дополнительные сведения: в настоящее время прохожу курсы с упором на изучение библиотеки React.
 
