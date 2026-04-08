@@ -20,6 +20,7 @@
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
+[![GitHub](https://img.shields.io/badge/Visit-GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 
 Образование: 
 - Прохождение онлайн-курсов Friendly Frontend.
